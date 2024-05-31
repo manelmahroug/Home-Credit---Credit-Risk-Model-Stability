@@ -1,4 +1,4 @@
-# Home-Credit-Credit-Risk-Model-Stability
+# Home-Credit-Risk-Model-Stability
 
 Consumer finance providers often face significant challenges when issuing loans due to two major factors:
 

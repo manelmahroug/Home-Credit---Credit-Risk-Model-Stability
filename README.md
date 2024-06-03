@@ -8,5 +8,5 @@ Consumer finance providers often face significant challenges when issuing loans 
 
 To address these challenges, it is crucial to develop models that remain stable over time. Achieving stability can be complex and often requires trade-offs, as improving model stability can sometimes compromise performance.
 
-The goal of this notebook is to build a machine learning model that maintains stability over time while addressing the aforementioned challenges.
+The goal of this notebook is to build a machine learning model that maintains stability over time while attempting to address the aforementioned challenges.
 

@@ -10,3 +10,7 @@ To address these challenges, it is crucial to develop models that remain stable 
 
 The goal of this notebook is to build a machine learning model that maintains stability over time while attempting to address the aforementioned challenges.
 
+### Dataset
+
+The dataset comprised 16 tables containing information on 1.5 million active loans, indexed by case ID. The data was sourced from both internal and external origins and included fundamental details about the clients associated with each case ID. It also encompassed information on previous loan applications, internal deposit and debit card data, as well as data from credit bureaus and tax registry providers. The raw data featured 465 unique attributes, and various predictors were transformed and encoded by Home Credit before being provided. Transformations included P for days-past-due, M for masking, A for amounts, D for dates, and T and L for unspecified transformations.
+
